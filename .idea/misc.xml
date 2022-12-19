@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/drawable/bg_receiver.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/drawable/bg_sender.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/drawable/bg_text.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.2515" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/drawable/ic_default_img.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/layout/Login_Activity.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/layout/activity_add_post.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/layout/activity_comments.xml" value="0.264" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/layout/activity_main22.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/layout/activity_mainFeed.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/layout/activity_set_up.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/layout/each_comment.xml" value="0.264" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/layout/each_post.xml" value="0.5005476451259584" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/layout/login_activity.xml" value="0.264" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/layout/menu_items.xml" value="0.4" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/layout/register_activity.xml" value="0.264" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/layout/row_posts.xml" value="0.264" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/Login/app/src/main/res/menu/main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/MyLoginApp-master/app/src/main/res/layout/activity_main1.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable-v24/bg_cluster_circle.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable-v24/bg_cluster_circle2.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable-v24/bg_cluster_info_window.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable/after_liked.xml" value="0.159" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable/before_liked.xml" value="0.159" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable/bg_receiver.xml" value="0.159" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable/bg_sender.xml" value="0.159" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable/bg_text.xml" value="0.159" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable/editextstyle.xml" value="0.159" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.159" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.159" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.159" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable/ic_baseline_linked_camera_24.xml" value="0.159" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.159" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable/ic_launcher_background.xml" value="0.159" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.159" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/layout/activity_main.xml" value="0.5121477162293488" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/layout/activity_main2.xml" value="0.1640625" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/layout/activity_maps.xml" value="0.4" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/layout/activity_type.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/layout/each_post.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/layout/eapost.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/layout/info_window_layout.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/layout/item_infowindow_map.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/layout/menu_items.xml" value="0.2" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/layout/onepost.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/layout/register_activity.xml" value="0.264" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/Login/app/src/main/res/layout/type.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/drawable-v24/bg_cluster_circle.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/drawable-v24/bg_cluster_info_window.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/drawable/background_splashscren.xml" value="0.264" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/drawable/before_liked.xml" value="0.228" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.148" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.279" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/layout/activity_add_post.xml" value="0.264" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/layout/activity_detail_post.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/layout/activity_main2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/layout/activity_maps.xml" value="1.0" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/layout/activity_set_up.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/layout/activity_type.xml" value="0.152" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/layout/each_comment.xml" value="0.21920289855072464" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/layout/each_post.xml" value="0.536" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/layout/eapost.xml" value="0.1" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/layout/info_window_layout.xml" value="0.21920289855072464" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/layout/login_activity.xml" value="0.264" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/layout/register_activity.xml" value="0.264" />
+        <entry key="..\:/Users/21261/Desktop/ESTC/stage/coding/final/why/Login/app/src/main/res/xml/provider_paths.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/AIO 24/Documents/last/Login/app/src/main/res/layout/activity_set_up.xml" value="0.16979166666666667" />
+        <entry key="app/src/main/res/layout/activity_add_post.xml" value="0.1203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
+  </component>
+</project>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:circle="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.szugyi.circlemenu.view.CircleImageView
+        android:id="@+id/animals"
+        android:layout_width="300px"
+        android:layout_height="300px"
+        android:background="@drawable/circle"
+        android:elevation="10dp"
+        android:src="@drawable/animals"
+        circle:name="Angry Animals" />
+
+    <com.szugyi.circlemenu.view.CircleImageView
+        android:id="@+id/hole"
+        android:layout_width="300px"
+        android:layout_height="300px"
+        android:background="@drawable/circle"
+        android:elevation="10dp"
+        android:src="@drawable/hole"
+        circle:name="Street Hole" />
+
+
+    <com.szugyi.circlemenu.view.CircleImageView
+        android:id="@+id/low_light"
+        android:layout_width="300px"
+        android:layout_height="300px"
+        android:background="@drawable/circle"
+        android:elevation="10dp"
+        android:src="@drawable/low"
+        circle:name="Low Light" />
+
+    <com.szugyi.circlemenu.view.CircleImageView
+        android:id="@+id/other"
+        android:layout_width="300px"
+        android:layout_height="300px"
+        android:background="@drawable/circle"
+        android:elevation="10dp"
+        android:src="@drawable/other"
+        circle:name="Other" />
+
+    <com.szugyi.circlemenu.view.CircleImageView
+        android:id="@+id/bad_smell"
+        android:layout_width="300px"
+        android:layout_height="300px"
+        android:background="@drawable/circle"
+        android:elevation="10dp"
+        android:src="@drawable/smell"
+        circle:name="Bad Smell" />
+
+    <com.szugyi.circlemenu.view.CircleImageView
+        android:id="@+id/theift"
+        android:layout_width="300px"
+        android:layout_height="300px"
+        android:background="@drawable/circle"
+        android:elevation="10dp"
+        android:src="@drawable/theift"
+        circle:name="Theift" />
+
+</merge>

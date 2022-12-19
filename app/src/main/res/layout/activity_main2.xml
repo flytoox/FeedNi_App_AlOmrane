@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sothree="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity2"
+    android:id="@+id/hey">
+
+
+    <!--Sliding Up Screen-->
+    <com.sothree.slidinguppanel.SlidingUpPanelLayout
+        android:id="@+id/sliding_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom">
+
+        <!--First Screen-->
+        <include
+            android:id="@+id/first"
+            layout="@layout/activity_maps"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".MapsActivity" />
+
+        <!--Second Screen-->
+        <include
+            android:id="@+id/second"
+            layout="@layout/activity_main"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".MainActivity" />
+    </com.sothree.slidinguppanel.SlidingUpPanelLayout>
+
+
+</RelativeLayout>
