@@ -32,12 +32,4 @@ And here is some Screenshots from the app that explains the app ;)
 
 <img src="https://user-images.githubusercontent.com/80468732/223151632-672749af-f88c-4e3f-b1e7-89278665a6f3.jpg" height="500">
 
-<img src="https://user-images.githubusercontent.com/80468732/223151649-1842c195-76fa-4d42-8d5b-7cdde78b98bd.jpg" height="500">
   </div>
- <div style="display:flex; justify-content:space-between;">
-<img src="https://user-images.githubusercontent.com/80468732/223151655-a0ac2d24-4601-4dcc-8639-5ccbc542de4c.jpg" height="500">
-
-<img src="https://user-images.githubusercontent.com/80468732/223151674-067435de-6de5-4412-8abd-53e188369199.jpg" height="500">
-
-<img src="https://user-images.githubusercontent.com/80468732/223151678-2a51f261-b617-46e6-85e5-82e3c0f0e3b2.jpg" height="500">
-</div>
